@@ -1,0 +1,40 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\eliot\Documents\NetBeansProjects\RealEstateMVC\RealEstateMVC\ProjetMVC\ProjetMVC\HouseClip.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\eliot\Documents\NetBeansProjects\RealEstateMVC\RealEstateMVC\ProjetMVC\ProjetMVC\.
+Java min ver:	1.008.000
+Java max ver:	1.008.005
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_271\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_202
+Check launcher:	C:\Program Files\Java\jre1.8.0_202\bin\javaw.exe (OK)
+Match:		1.008.000_202
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_271
+Check launcher:	C:\Program Files\Java\jre1.8.0_271\bin\javaw.exe (OK)
+Match:		1.008.000_271
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7
+Ignore:		1.007.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.7.0_80
+Ignore:		1.007.000_080
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_202
+Ignore:		1.008.000_202
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_271
+Ignore:		1.008.000_271
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.9
+Ignore:		1.011.000_009
+Check:		SOFTWARE\JavaSoft\JDK\15.0.1
+Ignore:		1.015.000_001
+Runtime used:	1.008.000_271 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_271\bin\javaw.exe
+Launcher args:	-jar "C:\Users\eliot\Documents\NetBeansProjects\RealEstateMVC\RealEstateMVC\ProjetMVC\ProjetMVC\HouseClip.exe"
+Args length:	110/32768 chars
+Exit code:	0

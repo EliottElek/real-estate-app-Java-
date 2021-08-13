@@ -1,0 +1,4 @@
+url = jdbc:mysql://localhost:3306/realestatedatabase
+driver = com.mysql.jdbc.Driver
+user = root
+paswword = elektra1
